@@ -2,7 +2,7 @@
 
 <img src="https://ssl-static.libsyn.com/p/assets/b/4/d/9/b4d95ef6e81d4e2a/TT1289_POD02.png"><br>
 
-Sosnoff / Ratigan - Truth or Skepticism from tastytrade. <a href="https://www.tastytrade.com/tt/bio/tom-sosnoff">Tom Sosnoff</a> and <a href="https://dylanratigan.com/">Dylan Ratigan</a> reunite for a weekly podcast, ranting on everything from sports and investing to politics and monetary policy.<br>
+Sosnoff / Ratigan - Truth or Skepticism from tastytrade. <a href="https://www.tastytrade.com/tt/bio/tom-sosnoff">Tom Sosnoff</a> and <a href="https://dylanratigan.com/">Dylan Ratigan</a> reunite for a weekly podcast, ranting on everything from sports and investing to politics and monetary policy. Tastytrade Live stream included.<br>
 
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 
